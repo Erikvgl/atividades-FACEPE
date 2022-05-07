@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-family: Tahoma;
+    color: blue;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+p {
+    font-family: arial;
+    font-size: 18px;
+}
+
+span {
+    font-family: arial;
+    font-weight: bold;
+}

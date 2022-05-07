@@ -1,0 +1,16 @@
+#verde {
+    color: green;
+    font-size: 16px;
+}
+
+#vermelho, #azul {
+    font-size: 19px;
+}
+
+#vermelho {
+    color: red;
+}
+
+#azul {
+    color: blue;
+}

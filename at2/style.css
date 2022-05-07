@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+p, a {
+    font-family: arial;
+}
+
+a {
+    margin: 60px;
+}
